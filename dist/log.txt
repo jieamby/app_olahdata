@@ -1,0 +1,5 @@
+2024-09-02 22:45:08.308129 - Application started
+2024-09-13 14:45:18.827016 - Application started
+2024-09-13 14:46:10.616798 - Data uploaded from file: C:/Users/ghcm/Downloads/data untuk testing.xlsx
+2024-09-13 14:46:19.442361 - Records deleted: ()
+2024-09-13 14:46:50.952478 - Data saved: 1234, 08 September 2024, s, 6
